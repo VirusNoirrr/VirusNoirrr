@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virusnoirrr&" alt="VirusNoir" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1087555822399262812)](https://discord.com/users/1087555822399262812)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1329421815780474992)](https://discord.com/users/1329421815780474992)
